@@ -1,0 +1,7 @@
+# Request
+string text
+string scheme
+---
+# Response
+builtin_interfaces/Time stamp
+string encoded
